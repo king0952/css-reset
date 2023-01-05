@@ -1,2 +1,3 @@
-# css-reset
-CSS reset
+# CSS Reset
+
+A Modern CSS Reset
